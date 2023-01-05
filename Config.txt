@@ -1,0 +1,14 @@
+priority = rap
+
+maximum_item_value = 50000
+maximum_item_rap = 50000
+
+maximum_rap_increase = 500
+maximum_value_increase = 500
+
+minimum_rap_increase = 150
+minimum_value_increase = 150
+
+trade_priority = 3
+
+items_to_keep = 1
